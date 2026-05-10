@@ -16,7 +16,7 @@
     <tr align="center"></tr>
       <td>
         <br>
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4FuL1oUMR9bjHIxwGyTZiyKO0axRDiOqtHQ&s" width="180" align="right" alt="phainon">
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4FuL1oUMR9bjHIxwGyTZiyKO0axRDiOqtHQ&s" width="100" align="right" alt="phainon">
 
 $\color{#4a61ba}{\textsf{δ-me13}}$ $\color{#4a61ba}{\textsf{⠀⠀⠀⠀⠀⠀⠀⠀FurinaTheFountain.file}}$ <br>
 <ins>──────────────────────────</ins> <br>
