@@ -110,11 +110,10 @@ uhh the codes yea YOU A LIFE SAFER FR BRO
         <br>
 <img src="https://64.media.tumblr.com/3643664eba779d8b99d48d77a50ff3f5/3cf57464da3c3279-fc/s400x600/6c06cb578fc72391e27b1c906728b7e7ebb9c417.pnj" width="240" height="auto" title="mydei of castrum kremnos"></a>
 <img src="https://64.media.tumblr.com/8640bf6f898aa935c575a15a93cef267/3cf57464da3c3279-c8/s400x600/78de646f94ecee3cad8e8bbd2b3a9b9b67c8f8d5.pnj" width="240" height="auto" title="phainon of aedes elysiae"></a>        
-        <br>
+        <br><br>
       </th>
   </table>
         <br>
-          <br>
       </td>
     </tr>
   </table>
