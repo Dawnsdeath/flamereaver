@@ -7,7 +7,7 @@
  <br>
  <br>
  
- <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDYtP6dcJLDOWqq7AiYByroHPfSPULpiTMCQ&s" width="300" align="left" alt="phainon">
+ <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDYtP6dcJLDOWqq7AiYByroHPfSPULpiTMCQ&s" width="200" align="left" alt="phainon">
 
 
 <br>
