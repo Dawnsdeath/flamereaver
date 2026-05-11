@@ -65,7 +65,6 @@ im **AFK**, dont feel afraid to **whisp** me! i dont bite trust, RABIES ALERT--
  <img src="https://64.media.tumblr.com/dd61891a5737d894b41dbda9e9ca2f7c/3cf57464da3c3279-f2/s400x600/1d33016902b9010518e4d52ae56cb09f1bffa97a.pnj" width="240" height="auto" title="mydei of castrum kremnos"></a>
 
 
-  <img align="center" src="https://drive.google.com/uc?id=1x7Ev7BXfNc4V701g8ezBW-5sRHhJsRk0" width="65px">
  <table border="0" align="left">
     <tr></tr>
       <th>
